@@ -1,0 +1,111 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+
+\usepackage{graphicx} 
+\usepackage[a5paper]{geometry}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FONT
+\usepackage[rm]{roboto}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{\huge{Zpěvník}}
+\author{\footnotesize{Miroslav Burýšek}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% HUDBA, AKORDY
+\usepackage{leadsheets}
+\usepackage{array}
+\setleadsheets{
+title-template = tabular, 
+verse/numbered=true 
+}
+\setchords{
+format = \bfseries,   %tučné akordy
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%    FORMÁTOVÁNÍ                   %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Vlevo zarovnaný text s blokem zarovnaným na střed
+\usepackage{varwidth}% http://ctan.org/pkg/varwidth
+\newenvironment{centerjustified}{%
+  \begin{center} % so the minipage is centered
+  \begin{varwidth}[t]{\textwidth}	
+  \raggedright % so the minipage's text is left justified
+  \setlength{\parindent}{\pindent}
+}{%
+  \end{varwidth}
+  \end{center}
+}
+
+\usepackage{tocloft}
+
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+
+
+% České překlady
+\DeclareTranslation{czech}{leadsheets/interpret}
+{autor: \printsongpropertylist{interpret}{ \& }{, }{ \& }}
+
+\DeclareTranslation{czech}{leadsheets/verse}
+{Sloka}
+\DeclareTranslation{czech}{leadsheets/chorus}
+{Ref}
+\DeclareTranslation{czech}{leadsheets/solo}
+{Sólo}
+\DeclareTranslation{czech}{leadsheets/interlude}
+{Mezihra}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%\maketitle
+%\tableofcontents
+%\newpage
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PÍSNIČKY
+
+
+%\input{songs/komin_a_brizy}
+%\input{songs/pisen_o_lasce}
+%\input{songs/prijdes_domu}
+%\input{songs/laska}
+%\input{songs/pole_trava_cinzaky}
+%\input{songs/v_jezere_mleka_a_mlhy}
+%\input{songs/boty_proti_lasce}
+
+%\include{songs/orlice}
+%\include{songs/valka-ruzi}
+%\include{songs/krasojezdkyne}
+%\include{songs/kde-jsou}
+%\include{songs/stin-katedral}
+
+%\include{songs/andelska}
+%\include{songs/zpatky-do-trenek}
+%\include{songs/to-se-u-nas-nemuze-stat}
+%\include{songs/zasnuby}
+%\include{songs/prazce}
+
+%\include{songs/jesus-etc}
+
+%\include{songs/sedi-topic-u-piana}
+%\include{songs/nagasaki-hirosima}
+%\include{songs/chuze}
+%\include{songs/za-malou-chvili}
+
+%\include{songs/david-a-golias}
+%\include{songs/zephyr-song}
+
+%\include{songs/zeme-je-kulata}
+%\include{songs/styskani}
+
+\include{songs/femme-fatale}
+
+
+\end{document}
