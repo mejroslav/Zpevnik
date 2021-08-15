@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.24)  10 AUG 2021 18:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.24)  15 AUG 2021 12:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -369,29 +369,29 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \colbreak@box=\box99
 \mc@col@check@num=\count304
 )
-LaTeX Font Info:    Trying to load font information for OT1+RobotoSlab-TLF on input line 65.
+LaTeX Font Info:    Trying to load font information for OT1+RobotoSlab-TLF on input line 61.
  (/usr/share/texmf-dist/tex/latex/roboto/OT1RobotoSlab-TLF.fd
 File: OT1RobotoSlab-TLF.fd 2019/12/11 (autoinst) Font definitions for OT1/RobotoSlab-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/RobotoSlab-TLF/m/n' aliased to
-(Font)              `OT1/RobotoSlab-TLF/regular/n' on input line 65.
- (/home/mir/Disk/Projects/LaTeX/Zpevnik/main.aux (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/komin_a_brizy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pisen_o_lasce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/prijdes_domu.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/laska.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pole_trava_cinzaky.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/v_jezere_mleka_a_mlhy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/boty_proti_lasce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/orlice.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/valka-ruzi.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/krasojezdkyne.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/kde-jsou.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/stin-katedral.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/andelska.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zpatky-do-trenek.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/to-se-u-nas-nemuze-stat.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zasnuby.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/prazce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/jesus-etc.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/sedi-topic-u-piana.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/nagasaki-hirosima.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/chuze.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/za-malou-chvili.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/david-a-golias.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zephyr-song.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zeme-je-kulata.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/styskani.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/femme-fatale.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/magic-town.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/brandy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pasaci.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/nowhere-man.aux))
+(Font)              `OT1/RobotoSlab-TLF/regular/n' on input line 61.
+ (/home/mir/Disk/Projects/LaTeX/Zpevnik/main.aux (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/komin_a_brizy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pisen_o_lasce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/prijdes_domu.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/laska.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pole_trava_cinzaky.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/v_jezere_mleka_a_mlhy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/boty_proti_lasce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/orlice.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/valka-ruzi.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/krasojezdkyne.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/kde-jsou.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/stin-katedral.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/andelska.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zpatky-do-trenek.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/to-se-u-nas-nemuze-stat.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zasnuby.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/prazce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/jesus-etc.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/sedi-topic-u-piana.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/nagasaki-hirosima.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/chuze.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/za-malou-chvili.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/david-a-golias.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zephyr-song.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zeme-je-kulata.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/styskani.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/femme-fatale.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/magic-town.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/brandy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pasaci.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/nowhere-man.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/penny-lane.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/substitute.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count305
@@ -447,7 +447,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 \c@mv@tabular=\count311
 \c@mv@boldtabular=\count312
-Package translations Info: no dictionary file `translations-basic-dictionary-czech.trsl' found. on input line 65.
+Package translations Info: no dictionary file `translations-basic-dictionary-czech.trsl' found. on input line 61.
 \openout2 = `songs/komin_a_brizy.aux'.
 
 (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/komin_a_brizy.tex
@@ -649,7 +649,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--48
 
 
 ])
-Underfull \hbox (badness 10000) in paragraph at lines 48--81
+Underfull \hbox (badness 10000) in paragraph at lines 48--77
 
  []
 
@@ -1111,20 +1111,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
 
 
 
-] (/home/mir/Disk/Projects/LaTeX/Zpevnik/main.aux (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/komin_a_brizy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pisen_o_lasce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/prijdes_domu.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/laska.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pole_trava_cinzaky.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/v_jezere_mleka_a_mlhy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/boty_proti_lasce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/orlice.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/valka-ruzi.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/krasojezdkyne.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/kde-jsou.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/stin-katedral.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/andelska.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zpatky-do-trenek.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/to-se-u-nas-nemuze-stat.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zasnuby.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/prazce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/jesus-etc.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/sedi-topic-u-piana.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/nagasaki-hirosima.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/chuze.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/za-malou-chvili.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/david-a-golias.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zephyr-song.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zeme-je-kulata.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/styskani.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/femme-fatale.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/magic-town.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/brandy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pasaci.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/nowhere-man.aux)) ) 
+]
+\openout2 = `songs/penny-lane.aux'.
+
+ (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/penny-lane.tex [42
+
+
+
+]) [43]
+\openout2 = `songs/substitute.aux'.
+
+ (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/substitute.tex) [44
+
+
+
+] (/home/mir/Disk/Projects/LaTeX/Zpevnik/main.aux (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/komin_a_brizy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pisen_o_lasce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/prijdes_domu.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/laska.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pole_trava_cinzaky.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/v_jezere_mleka_a_mlhy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/boty_proti_lasce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/orlice.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/valka-ruzi.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/krasojezdkyne.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/kde-jsou.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/stin-katedral.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/andelska.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zpatky-do-trenek.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/to-se-u-nas-nemuze-stat.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zasnuby.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/prazce.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/jesus-etc.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/sedi-topic-u-piana.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/nagasaki-hirosima.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/chuze.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/za-malou-chvili.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/david-a-golias.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zephyr-song.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/zeme-je-kulata.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/styskani.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/femme-fatale.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/magic-town.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/brandy.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/pasaci.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/nowhere-man.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/penny-lane.aux) (/home/mir/Disk/Projects/LaTeX/Zpevnik/songs/substitute.aux)) ) 
 Here is how much of TeX's memory you used:
- 8203 strings out of 478994
- 175840 string characters out of 5864751
- 489036 words of memory out of 5000000
- 25347 multiletter control sequences out of 15000+600000
+ 8271 strings out of 478994
+ 178714 string characters out of 5864751
+ 489916 words of memory out of 5000000
+ 25401 multiletter control sequences out of 15000+600000
  415783 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  112i,12n,119p,327b,570s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/roboto/rbto_iqgrsz.enc}{/usr/share/texmf-dist/fonts/enc/dvips/roboto/rbto_ddkove.enc}</usr/share/texmf-dist/fonts/type1/google/roboto/RobotoSlab-Bold.pfb></usr/share/texmf-dist/fonts/type1/google/roboto/RobotoSlab-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/musixtex-fonts/musix11.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on /home/mir/Disk/Projects/LaTeX/Zpevnik/main.pdf (41 pages, 137604 bytes).
+Output written on /home/mir/Disk/Projects/LaTeX/Zpevnik/main.pdf (44 pages, 141626 bytes).
 PDF statistics:
- 163 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 173 PDF objects out of 1000 (max. 8388607)
+ 120 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
